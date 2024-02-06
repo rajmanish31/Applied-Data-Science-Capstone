@@ -19,8 +19,10 @@ The most prosperous business of the commercial space era, SpaceX has reduced the
 - Dealing with missing values
 - Using One Hot Encoding to prepare the data to a binary classification
 
-**3. Perform EDA using SQL and Visualization**
-**4. Performed interactive visual analytics using Folium and Plotly Dash**
+**3. Perform EDA using SQL and Visualization,**
+
+**4. Performed interactive visual analytics using Folium and Plotly Dash.**
+
 **5. Performed predictive analysis using machine learning models**
 - Building, tuning and evaluation of Logistic Regression, SVN, Decision Tree and KNN models to ensure the best results
 - Achieved accuracy of 83% for Logistic Regression, SVM and KNN and 88% for Decesion Tree model.
